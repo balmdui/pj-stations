@@ -8,7 +8,9 @@ dependencies = [
     "cartopy>=0.25.0",
     "folium>=0.20.0",
     "geopandas>=1.1.1",
+    "mapclassify>=2.10.0",
     "matplotlib>=3.10.7",
+    "rasterio>=1.4.3",
 ]
 
 [dependency-groups]
